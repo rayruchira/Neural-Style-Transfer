@@ -1,8 +1,7 @@
 # Neural-Style-Transfer
-Neural Style Transfer flask application
+Neural Style Transfer
 
 ### <u>1. Libraries used: </u>
-    - Keras
     - Tensorflow (Code Compatible with 2.00 alpha & 1.1x version)
     - Scikit-learn
     - Pandas
@@ -20,7 +19,7 @@ Neural Style Transfer flask application
 
 ### <u>3. Changes from Source Article: </u>
     The major changes from the source(see below) include:
-        - Additional visualizations
+        - Additional visualizations for every 10 epoch
         - Compatibility with tf 2.00
         - Additional Content Layers 
         - Changes to helper functions
